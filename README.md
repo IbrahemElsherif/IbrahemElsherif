@@ -18,6 +18,7 @@
 
 # Projects:
 ## - [Tweets Sentiment analysis using LSTM](https://github.com/IbrahemElsherif/Tweets-Sentiment-analysis-using-LSTM)
+## - [Transfer learning using ResNet for Arabic Alphabet Sign Language].(https://github.com/IbrahemElsherif/Transfer-learning-using-ResNet-for-Arabic-Alphabet-Sign-Language)
 ## - [Skin cancer classification using CNN and Transfer-learning](https://github.com/IbrahemElsherif/Skin-cancer-using-CNN-and-Transfer-learning/tree/main)
 ## - [Neural Network from scratch using only Numpy](https://github.com/IbrahemElsherif/Neural-Network-from-Scratch)
 ## - [Tic Tac Toe Game with OOP](https://github.com/IbrahemElsherif/Tic-Tac-Toe)
