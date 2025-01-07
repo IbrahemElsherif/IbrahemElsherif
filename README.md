@@ -21,6 +21,7 @@
 ## - [TimeMe Chrome Extension](https://github.com/IbrahemElsherif/TimeME)
 ## - [Transfer learning using ResNet for Arabic Alphabet Sign Language](https://github.com/IbrahemElsherif/Transfer-learning-using-ResNet-for-Arabic-Alphabet-Sign-Language)
 ## - [Skin cancer classification using CNN and Transfer-learning](https://github.com/IbrahemElsherif/Skin-cancer-using-CNN-and-Transfer-learning/tree/main)
+## - [Customer Churn](https://github.com/IbrahemElsherif/Customer-Churn)
 ## - [Neural Network from scratch using only Numpy](https://github.com/IbrahemElsherif/Neural-Network-from-Scratch)
 ## - [Tic Tac Toe Game with OOP](https://github.com/IbrahemElsherif/Tic-Tac-Toe)
 
