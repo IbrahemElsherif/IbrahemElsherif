@@ -19,6 +19,7 @@
 # Projects:
 ## - [Stock Price Prediction using LSTM](https://github.com/IbrahemElsherif/Stock-Price-Prediction-with-LSTM-Neural-Networks)
 ## - [TimeMe Chrome Extension](https://github.com/IbrahemElsherif/TimeME)
+## - [Tweets Sentiment analysis using LSTM](https://github.com/IbrahemElsherif/Tweets-Sentiment-analysis-using-LSTM)
 ## - [Transfer learning using ResNet for Arabic Alphabet Sign Language](https://github.com/IbrahemElsherif/Transfer-learning-using-ResNet-for-Arabic-Alphabet-Sign-Language)
 ## - [Skin cancer classification using CNN and Transfer-learning](https://github.com/IbrahemElsherif/Skin-cancer-using-CNN-and-Transfer-learning/tree/main)
 ## - [Customer Churn](https://github.com/IbrahemElsherif/Customer-Churn)
