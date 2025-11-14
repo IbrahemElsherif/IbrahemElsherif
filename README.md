@@ -132,11 +132,26 @@ Includes experiments, visualizations, and comparisons to the paper baseline.
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahemelsherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahemelsherif&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemelsherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
 
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ibrahemelsherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" 
+    alt="GitHub Stats"
+  />
+
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahemelsherif&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800&v=1"
+    alt="GitHub Streak"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemelsherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1"
+    alt="Top Languages"
+  />
+
+</div>
 
 ---
 
