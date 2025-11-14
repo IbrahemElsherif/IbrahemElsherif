@@ -137,6 +137,7 @@ Includes experiments, visualizations, and comparisons to the paper baseline.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemelsherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
+
 ---
 
 <div align="center">
@@ -146,3 +147,8 @@ Includes experiments, visualizations, and comparisons to the paper baseline.
 ### **Let’s connect and build something incredible together 🚀**
 
 </div>
+
+<!-- https://gemini.google.com/share/cb55d4731da8  -->
+<!-- https://chatgpt.com/g/g-p-6884b3f202d881918f63a7f86cc8a7ea-ibrahem/c/691759be-67f8-8331-ae38-ed2f24aba4ce  -->
+<!-- https://www.perplexity.ai/search/evaluate-this-github-profile-r-QYfb0sKDT.mZ6NUD9kSC0w  -->
+<!-- https://claude.ai/chat/99669beb-6153-42e5-be06-e7c3a9a275e4  -->
