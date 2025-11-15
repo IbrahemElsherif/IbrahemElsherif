@@ -154,7 +154,7 @@ Includes experiments, visualizations, and comparisons to the paper baseline.
 </div>
 
 ---
-
+<!-- https://github.com/IbrahemElsherif/local-llm-ollama -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
