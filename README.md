@@ -26,14 +26,14 @@
 I’m **Ibrahem Elsherif**, a Machine Learning Engineer based in **Dammam, Saudi Arabia**, passionate about building real-world AI systems that combine **deep learning, LLMs, computer vision, and efficient deployment**.
 
 I enjoy taking ideas from research → experiments → scalable applications — especially when it involves **LLMs, RAG systems, multimodal models, or robotics**.
-
+<!--
 ### 🚀 What I'm Currently Working On
 
 - 🔍 **RAG System** using FastAPI, PostgreSQL, & `pgvector`
 - 🤖 **Fine-tuning a Vision-Language Model** on Jetson Nano for a robotics project
 - 🧱 Implementing the paper **“A Word is Worth 16×16 Pixels”** (multimodal transformer)
 - ⚡ Improving my MLOps stack: Docker, CI/CD, model serving, & monitoring
-
+-->
 ---
 
 # 🛠️ Tech Stack
