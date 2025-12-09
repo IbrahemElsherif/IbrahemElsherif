@@ -66,10 +66,9 @@ I enjoy taking ideas from research → experiments → scalable applications —
 # 🚀 Featured Projects
 
 ## 🔥 Coming Soon (Currently Building)
-
-### **🔍 RAG System with FastAPI + pgvector**  
-A scalable Retrieval-Augmented Generation backend using PostgreSQL + FastAPI + optimized embeddings.  
-**Features:** chunking strategies, hybrid search, streaming responses, & eval with RAGAS.
+### **AI Resume Builder**
+A web application for building professional ATS compatiple resumes
+using FastAPI , Typescript, Next.js
 
 ---
 
@@ -77,12 +76,18 @@ A scalable Retrieval-Augmented Generation backend using PostgreSQL + FastAPI + o
 Custom dataset + LoRA fine-tuning of a lightweight vision-language model for real-time robotic perception.  
 Optimized for **edge inference**, quantization, and hardware acceleration.
 
+<!--
+### **🔍 RAG System with FastAPI + pgvector**  
+A scalable Retrieval-Augmented Generation backend using PostgreSQL + FastAPI + optimized embeddings.  
+**Features:** chunking strategies, hybrid search, streaming responses, & eval with RAGAS.
+
+
 ---
 
 ### **🧱 “A Word is Worth 16×16 Pixels” — Reproduction + Training**  
 Reimplementing the multimodal architecture, generating patches from text, and training on custom data.  
 Includes experiments, visualizations, and comparisons to the paper baseline.
-
+-->
 ---
 
 # 📚 ML & Deep Learning Projects
