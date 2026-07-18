@@ -4,9 +4,9 @@
 
 </div>
 
-<h3 align="center">Machine Learning Engineer | LLMs • Computer Vision • AI Systems</h3>
+<h3 align="center">AI/ML Engineer | LLMs • RAG</h3>
 
-<h4 align="center">☕ Turning coffee into intelligent systems — one cup at a time</h4>
+<h4 align="center">☕ Turning coffee into code — one cup at a time</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahemelsherif&label=Profile%20views&color=0e75b6&style=for-the-badge" />
@@ -23,7 +23,7 @@
 
 # 👋 About Me
 
-I’m **Ibrahem Elsherif**, a Machine Learning Engineer based in **Dammam, Saudi Arabia**, passionate about building real-world AI systems that combine **deep learning, LLMs, computer vision, and efficient deployment**.
+Hey you, I'm **Ibrahem**, a Machine Learning Engineer based in **Dammam, Saudi Arabia**, passionate about building real-world AI systems that combine **deep learning, LLMs, computer vision, and efficient deployment**.
 
 I enjoy taking ideas from research → experiments → scalable applications — especially when it involves **LLMs, RAG systems, multimodal models, or robotics**.
 <!--
